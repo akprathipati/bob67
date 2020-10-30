@@ -19,4 +19,4 @@ def deriv():
     elif ex<0:
         print("The derivative is:",coef*ex,"/(x^",abs(ex-1),")")
 deriv()
-#ak is cool 
+#ak is cool cool
